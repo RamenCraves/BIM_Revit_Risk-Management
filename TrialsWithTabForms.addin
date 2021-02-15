@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Ribbon</Name>
+    <Assembly>TrialsWithTabForms.dll</Assembly>
+    <FullClassName>TrialsWithTabForms.HelloPanel</FullClassName>
+    <ClientId>544f8fb8-1d96-4c9b-8d0a-424853c3c20c</ClientId>
+    <VendorId>Millar Sue</VendorId>
+    <VendorDescription>msue619, University of Auckland</VendorDescription>
+  </AddIn>
+</RevitAddIns>
